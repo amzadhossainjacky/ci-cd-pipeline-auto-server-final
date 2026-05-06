@@ -10,8 +10,11 @@ export default function Home() {
             href="https://nextjs.org"
             className="text-blue-600 dark:text-blue-400 hover:underline" 
           >
-            CI CD with Jenkins and Next.js !! Jacky the great  works hard to make this project successful.
-            2026 will be lengary year in ai and devops world. Let's make it happen together.
+            🚀 CI/CD with Jenkins and Next.js!
+
+              Jacky is working hard to make this project successful.
+              2026 will be a legendary year in the AI and DevOps world.
+              Let’s make it happen together! 💡🔥
 
           </a>
         </h1>
