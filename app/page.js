@@ -12,8 +12,7 @@ export default function Home() {
           >
             CI CD with Jenkins and Next.js !! Jacky the great  works hard to make this project successful.
             2026 will be lengary year in ai and devops world. Let's make it happen together.
-            great things are coming in 2026. Stay tuned for more updates and exciting projects!
-            finish this project and move on to next one. Next one will be more exciting and amazing than this one. I promise you that. Let's make 2026 a year of success and achievements for all of us. Thank you for being part of this journey and let's keep pushing forward together!
+            great things are coming in 2026. Stay tuned for more updates and exciting projects!!
 
           </a>
         </h1>
