@@ -10,7 +10,7 @@ node {
         echo 'Cloning the repo'
         git(
             branch: 'master',
-            url: 'https://github.com/amzadhossainjacky/ci-cd-pipeline-auto-deploy-server'
+            url: 'https://github.com/amzadhossainjacky/ci-cd-pipeline-auto-server-final'
         )
     }
 

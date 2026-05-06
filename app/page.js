@@ -10,7 +10,7 @@ export default function Home() {
             href="https://nextjs.org"
             className="text-blue-600 dark:text-blue-400 hover:underline" 
           >
-            CI CD with Jenkins and Next.js !! Jacky the great  33333
+            CI CD with Jenkins and Next.js !! Jacky the great  works hard to make this project successful.
           </a>
         </h1>
         <p className="mt-4 text-2xl text-center sm:text-left">
