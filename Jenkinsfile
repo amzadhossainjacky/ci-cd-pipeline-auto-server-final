@@ -70,7 +70,7 @@ node {
 
             sudo systemctl daemon-reload
             sudo systemctl enable nextjs-app
-            sudo systemctl start nextjs-app
+            sudo systemctl restart nextjs-app
             """
 
     }
