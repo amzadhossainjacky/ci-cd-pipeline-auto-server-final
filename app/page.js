@@ -11,6 +11,8 @@ export default function Home() {
             className="text-blue-600 dark:text-blue-400 hover:underline" 
           >
             CI CD with Jenkins and Next.js !! Jacky the great  works hard to make this project successful.
+            2026 will be lengary year in ai and devops world. Let's make it happen together.
+            
           </a>
         </h1>
         <p className="mt-4 text-2xl text-center sm:text-left">
